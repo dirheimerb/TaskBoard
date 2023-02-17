@@ -3,7 +3,7 @@
     "monolog/monolog": "^2.0",
     "gabordemooij/redbean": "^5.4",
     "slim/slim": "^4.3",
-    "firebase/php-jwt": "^5.0",
+    "firebase/php-jwt": "^6.0",
     "phpmailer/phpmailer": "^6.1",
     "phpunit/phpunit": "^8.5",
     "myclabs/php-enum": "^1.7",
